@@ -9,7 +9,7 @@ The analysis supports profit optimization and loss reduction initiatives.
 Ultimately, it empowers data-driven decisions for improved business outcomes.  
 
 
-<h3> # Key insights and Features <h3/>
+<h3> # Key insights and Features </h3>
 Total Sales & Key Metrics: Provides a snapshot of overall sales, quantity sold, and total profit.
 
 Sales by Category: Highlights the contribution of each product category to total sales.
