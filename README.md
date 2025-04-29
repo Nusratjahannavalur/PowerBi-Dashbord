@@ -1,7 +1,7 @@
 # PowerBi-Dashbord
 This Power BI project provides a comprehensive analysis of sales, offering valuable insights into sales performance, profit distribution, and customer behavior across different categories, sub-categories, shipping methods, and payment methods.
 
-# Project Objective:
+<h5> # Project Objective:<h5></h5>
 The goal is to analyze sales performance and optimize business strategies for SuperStore by exploring customer purchasing behaviors, identifying key drivers of profitability, predicting returns, and providing actionable insights for improving sales and minimizing losses.
 
 # Key insights and Features
