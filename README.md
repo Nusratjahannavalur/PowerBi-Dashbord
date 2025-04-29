@@ -3,7 +3,7 @@ This Power BI project delivers a detailed analysis of SuperStore's sales data.It
 
 
 <h3> # Key insights and Features </h3>
-<h6>Total Sales & Key Metrics: </h6>Provides a snapshot of overall sales, quantity sold, and total profit.
+<h6>Total Sales & Key Metrics:</h6>Provides a snapshot of overall sales, quantity sold, and total profit.</br>
 Sales by Category: Highlights the contribution of each product category to total sales.
 Sales by Sub-Category: Identifies the top-performing sub-categories across all products.
 Sales by Ship Mode: Shows customer preference for different shipping methods.
