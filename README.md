@@ -3,12 +3,12 @@ This Power BI project delivers a detailed analysis of SuperStore's sales data.It
 
 
 <h3> # Key insights and Features </h3>
-<h6>Total Sales & Key Metrics:Provides a snapshot of overall sales, quantity sold, and total profit.</br>
-Sales by Category: Highlights the contribution of each product category to total sales.
-Sales by Sub-Category: Identifies the top-performing sub-categories across all products.
-Sales by Ship Mode: Shows customer preference for different shipping methods.
-Monthly Sales YoY: Compares sales trends year-over-year to identify seasonal patterns.
-Monthly Profit YoY: Tracks profitability over time to pinpoint peak performance periods.
-Sales by Segment: Analyzes customer segment contributions to overall revenue.
-Sales by Payment Mode: Breaks down sales by payment type to understand customer behavior.
-Region-wise Filter: Enables regional analysis for more targeted business insights.
+Total Sales & Key Metrics:-Provides a snapshot of overall sales, quantity sold, and total profit.</br>
+Sales by Category:- Highlights the contribution of each product category to total sales.</br>
+Sales by Sub-Category:- Identifies the top-performing sub-categories across all products.</br>
+Sales by Ship Mode:- Shows customer preference for different shipping methods.</br>
+Monthly Sales YoY:- Compares sales trends year-over-year to identify seasonal patterns.</br>
+Monthly Profit YoY:- Tracks profitability over time to pinpoint peak performance periods.</br>
+Sales by Segment:- Analyzes customer segment contributions to overall revenue.</br>
+Sales by Payment Mode:- Breaks down sales by payment type to understand customer behavior.</br>
+Region-wise Filter:- Enables regional analysis for more targeted business insights.</br>
